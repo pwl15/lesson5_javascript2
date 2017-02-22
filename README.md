@@ -14,7 +14,7 @@ In this assignment, I utilized the .getElementById in order to call variables
 that were previously defined/calculated and displayed them for differing purposes.
 
 ### View Project:
-https://github.com/pwl15/lesson5_javascript2
+https://pwl15.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. .getElementById tag calls a previous variable from the application for a new purpose.
