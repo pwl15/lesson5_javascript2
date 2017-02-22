@@ -10,13 +10,13 @@ February 22, 2017
 Paul Lee
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I utilized the .getElementById in order to call variables
+that were previously defined/calculated and displayed them for differing purposes.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/pwl15/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. .getElementById tag calls a previous variable from the application for a new purpose.
+2. Bracket algebra requires that equations be built on top of each other, especially with tax brackets.
+3. I now better understand how to use various operators in equations (e.g. <=).
