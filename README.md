@@ -4,10 +4,10 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 22, 2017
 
 ### Student Name:  
-(First and Last Name)
+Paul Lee
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
